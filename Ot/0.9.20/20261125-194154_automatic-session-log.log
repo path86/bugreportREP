@@ -1,0 +1,25 @@
+
+**********************************************************
+Overteon 0.9.20 runtime log
+Log started: 25 Nov 2026 7:41:51pm
+2026-11-25 19:41:51.295  INFO   session start: Overteon 0.9.20, pid 1994036, Linux, log ~/Overteon/2026-11-25.19-41-51.log
+2026-11-25 19:41:51.295  INFO   instance created: Overteon 0.9.20
+2026-11-25 19:41:51.679  INFO   state restore: 2574 bytes
+2026-11-25 19:41:51.679  INFO   audio prepared: 44100.0 Hz, 512 samples/block, 2 in / 2 out
+2026-11-25 19:41:51.847  INFO   Qt logging: warnings/errors only (set OVERTEON_QTLOG_VERBOSE=1 for debug categories)
+2026-11-25 19:41:51.848  INFO   Qt 6.12.0, platform plug-in xcb
+2026-11-25 19:41:51.848  INFO   JUCE JUCE v8.0.13
+2026-11-25 19:41:51.848  INFO   OS Linux
+2026-11-25 19:41:51.848  INFO   Qt library paths: /usr/lib/qt6/plugins, ~/build/Onyx-z/Overteon-sync/Build/Overteon_20261124-234130_unknown_linux_x86_64/Standalone
+2026-11-25 19:41:51.848  INFO   screen eDP-1: 1966x1229 at 0,0, available 1951x1183, dpr 1.30208, logical DPI 96, refresh 120.001 Hz
+2026-11-25 19:41:51.849  INFO   env QSG_RHI_BACKEND=vulkan
+2026-11-25 19:41:51.849  INFO   env QSG_RENDER_LOOP=threaded
+2026-11-25 19:41:51.849  INFO   env DISPLAY=:0
+2026-11-25 19:41:51.849  INFO   env XDG_SESSION_TYPE=x11
+2026-11-25 19:41:51.849  INFO   Qt initialised: 6.12.0
+2026-11-25 19:41:51.914  INFO   QML scene loaded: qrc:/qml/main.qml
+2026-11-25 19:41:51.914  INFO   ui: QML window ready, editor 1354x1005
+2026-11-25 19:41:51.914  INFO   editor opened: 1354x1005, QML embedded
+2026-11-25 19:41:51.954  INFO   ui: embedded into host window 0x5e00006, editor 1354x1005
+2026-11-25 19:41:52.038  INFO   Qt Quick: Vulkan, shaders RHI shader (QSB) (offline-compiled, source files), scenegraph initialised yes
+2026-11-25 19:41:52.038  INFO   Qt Quick window: 1040x772 DIP, dpr 1.3021, visible yes
